@@ -1,0 +1,24 @@
+/*  first block empty */
+.full{ 
+  }
+/*  second block */
+.main-page{
+  max-width: 1040px;
+  margin: 0 auto;  
+  background: #FFF; 
+}
+/*  third block*/
+.inner{
+}
+#primary{  /*content*/
+  float: right;
+  width: 66.5%;
+  padding-right: 50px;
+  }
+  #secondary{   /*sidebar*/
+  float: left;
+  width: 33.5%;
+}
+#page{
+  padding-top:50px;
+}
